@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Sunaina Sharma
-- 👀  I’m interested in Data Science
+- 👀  I’m interested in Data Analytics.
 - 🌱  I’m currently learning machine learning.
 - 💞️  I’m looking to collaborate on Data Analytics and Stats.
 - 📫  I'm learning Data Analytics.

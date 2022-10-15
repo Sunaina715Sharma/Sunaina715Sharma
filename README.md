@@ -1,6 +1,6 @@
 - 👋  Hie, I am Sunaina Sharma.
 - 👀  I’m interested in Data Analysis.
-- 🌱  I’m currently learning Data Science .
+- 🌱  I’m currently learningData Science .
 - 💞️  I’m looking to collaborate on Statistics and Machine Learning.
 - 📓  Working with machine learning projects.
 - 📫  How to reach me ssunaina715@gmail.com.

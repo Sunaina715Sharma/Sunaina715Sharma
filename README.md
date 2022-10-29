@@ -2,7 +2,7 @@
 - 👀  I’m interested in Data Analysis.
 - 🌱  I’m currently learning Data Science .
 - 💞️  I’m looking to collaborate on Statistics and Machine Learning.
-- 📓  Currently Working with machine learning projects.
+- 📓  Working with machine learning projects.
 - 📫  How to reach me ssunaina715@gmail.com.
 - 📒  I'm addicted to learning and growing everyday in a reputed company .
 - 😄  Pronounce she | Her.

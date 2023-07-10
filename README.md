@@ -2,7 +2,7 @@
 - 👀  I’m interested in Data Science.
 - 🌱  I’m currently learning Data Science and AI.
 - 💞️  I’m looking to collaborate on Machine Learning.
-- 📓  Working with Machine Learning Projects and Deep Web Scraping Projects.
+- 📓  Working with Machine Learning Projects and Web Scraping Projects.
 - 📫  How to reach me ssunaina715@gmail.com.
 - 📒  I'm addicted to learning and growing everyday .
 - 😄  Pronounce She|Her. 

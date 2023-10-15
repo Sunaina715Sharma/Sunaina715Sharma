@@ -1,6 +1,6 @@
 - 👋  Hie, I am Sunaina Sharma.
 - 👀  I’m interested in Data Science.
-- 🌱  I’m currently learning Data Science and AI.
+- 🌱  I’m currently working as Data Science Consultant with 1218 Global.
 - 💞️  I’m looking to collaborate on Machine Learning.
 - 📓  Working with Machine Learning Projects and Web Scraping Projects.
 - 📫  How to reach me ssunaina715@gmail.com.

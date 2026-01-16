@@ -1,8 +1,8 @@
 - 👋  Hie, I am Sunaina Sharma.
-- 👀  I’m interested in Data Science.
-- 🌱  I’m currently working as Cloud Consultant at 1218 Global.
-- 💞️  I’m looking to collaborate on Machine Learning.
-- 📓  Working with Cloud Computing Projects.
+- 👀  I’m interested in Information Security.
+- 🌱  I’m currently working as Infosec Consultant at Xiarch Solutions.
+- 💞️  I’m looking to collaborate on Cybcer Security.
+- 📓  Working with ISO 27001 Projects.
 - 📫  How to reach me ssunaina715@gmail.com.
 - 📒  I'm addicted to learning and growing everyday .
 - 😄  Pronounce She|Her. 
